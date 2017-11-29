@@ -3,3 +3,10 @@ C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\HomeWork
 C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\HomeWork03\exercise3\bin\Debug\exercise3.pdb
 C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\HomeWork03\exercise3\obj\Debug\exercise3.exe
 C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\HomeWork03\exercise3\obj\Debug\exercise3.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork03\exercise3\bin\Debug\exercise3.exe.config
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork03\exercise3\bin\Debug\exercise3.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork03\exercise3\bin\Debug\exercise3.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork03\exercise3\obj\Debug\exercise3.csprojResolveAssemblyReference.cache
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork03\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork03\exercise3\obj\Debug\exercise3.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork03\exercise3\obj\Debug\exercise3.pdb
